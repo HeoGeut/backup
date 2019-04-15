@@ -1,3 +1,8 @@
 https://raw.githubusercontent.com/HeoGeut/backup/master/delivery_policy_guide.jpg
+맨 마지막에
 
 https://raw.githubusercontent.com/HeoGeut/backup/master/no_return_guide.jpg
+맨 앞에
+
+<img src="%link%"/>
+태그
